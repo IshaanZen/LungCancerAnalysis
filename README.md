@@ -1,4 +1,4 @@
-**Lung Cancer Dataset Analysis**
+# Lung Cancer Dataset Analysis
 Dataset Link - https://www.kaggle.com/datasets/amankumar094/lung-cancer-dataset/data
 
 **Project Background**
